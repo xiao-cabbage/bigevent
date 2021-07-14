@@ -1,0 +1,12 @@
+.layui-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.layui-card-header {
+  user-select: none;
+}
+.layui-form {
+  width: 450px;
+  margin-top: 15px;
+}
